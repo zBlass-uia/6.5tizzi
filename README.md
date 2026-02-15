@@ -13,7 +13,7 @@
 📫 Cómo contactarme:  
 
 [![Discord](https://img.shields.io/badge/Discord-Smokeadoo-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Smokeadoo)  
-[![Instagram](https://img.shields.io/badge/Instagram-6.5tizzi_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/6.5tizzi_)  
+[![Instagram](https://img.shields.io/badge/Instagram-6.5tizzi__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/6.5tizzi_)  
 
 😄 Pronombres: **Smokeadoo**, **Tizzi**, **zBlass**  
 
